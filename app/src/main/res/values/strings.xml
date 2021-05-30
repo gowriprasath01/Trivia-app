@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="trivia">TRIVIA</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="counter_text">0 / 100</string>
+    <string name="previous_button">previous button</string>
+    <string name="hello_this_is_where_the_questions_will_appear">hello..this is where the questions will appear....</string>
+    <string name="next_button">next button</string>
+    <string name="scoreboard">Your Score : 0</string>
+    <string name="highestscore">HighestScore : 0</string>
+    <string name="sharebutton">Share</string>
+</resources>
